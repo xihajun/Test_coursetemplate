@@ -63,7 +63,7 @@ TBD-step-1-information
 ### :keyboard: Activity: TBD-step-1-name
 
 1. Open a new browser tab, and work on the steps in your second tab while you read the instructions in this tab.
-1. what do you mean.
+1. what do you mean. is this the way to enable the action
 1. Wait about 20 seconds then refresh this page for the next step.
 
 </details>
